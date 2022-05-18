@@ -114,6 +114,14 @@ useEffect(()=>{
 
   
 }
+<div className="code">
+  {
+  <button className="btn">
+<a href="https://github.com/SilentCat24/todo" target="_blank" >code</a>
+
+  </button>
+}
+</div>
 </section>
   )}
 
